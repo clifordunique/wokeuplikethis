@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8178407393670428904
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8178407393670428822}
+  - component: {fileID: 8178407393670428905}
+  m_Layer: 0
+  m_Name: Audio
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8178407393670428822
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8178407393670428904}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8178407393670428905
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8178407393670428904}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d8e7f6a209fe484fbfe9d8962d81dce, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: PlayerDeath
+    clip: {fileID: 8300000, guid: c7c186eaa4c5f5a46bda870dbc407371, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: PlayerHurt
+    clip: {fileID: 8300000, guid: 751c3af3b0c742349b9f25bb5b0a3537, type: 3}
+    volume: 0.92
+    pitch: 1
+    source: {fileID: 0}
+  - name: PlayerSword
+    clip: {fileID: 8300000, guid: 010a3e1f26e9a294a9a11a673c45dfa7, type: 3}
+    volume: 0.522
+    pitch: 1.74
+    source: {fileID: 0}
+  - name: SwordTwo
+    clip: {fileID: 8300000, guid: 9a5821034734dfe4c94d094150de4760, type: 3}
+    volume: 0.493
+    pitch: 1
+    source: {fileID: 0}
+  - name: SwordThree
+    clip: {fileID: 8300000, guid: d7f794cc157ea44409351f025472931a, type: 3}
+    volume: 0.633
+    pitch: 1
+    source: {fileID: 0}
+  - name: SwordOne
+    clip: {fileID: 8300000, guid: adff1359699b6a2468c795883a3a42e9, type: 3}
+    volume: 0.831
+    pitch: 1
+    source: {fileID: 0}

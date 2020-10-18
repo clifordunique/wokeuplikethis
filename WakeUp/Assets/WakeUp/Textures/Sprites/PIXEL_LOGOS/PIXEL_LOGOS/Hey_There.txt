@@ -1,0 +1,22 @@
+Hi!
+
+First off, thanks for downloading my pixel art logos. I hope they are useful to you.
+
+They are organized as so:
+
+LOGOS -- Just the plain old logos on a transparent background (useful for image-links).
+BACKGROUNDS -- The logo, with a nicely colored background (useful for profile-pics).
+BACKGROUNDS + DROPSHADOWS -- The logo on a colored background, with an added drop shadow to make it look all nice and fancy (useful for fancy profile pics).
+DROPSHADOWS -- Just like above, except without the background color, this time the background is transparent (useful for fancy image-links).
+
+If you liked to say hi, support me, get updates on other free assets, or just yell at me for not including <'insert website name here'>, feel free to follow me at these places:
+
+TWITTER:                           www.twitter.com/StuffBySpencer
+TWITCH:                            www.twitch.tv/i_am_spencer
+WORDPRESS (mostly a game-devblog): www.StuffBySpencer.wordpress.com
+WEBSITE:                           www.StuffBySpencer.com
+
+---
+P.S. If you're a fan of retro stuff, I also made some free NES game-cartridge assets for marketing your nect game. You can find them here:
+http://iamspencer.itch.io/nes-cartridge-templates
+---

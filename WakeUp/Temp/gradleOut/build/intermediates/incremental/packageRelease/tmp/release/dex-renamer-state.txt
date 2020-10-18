@@ -1,0 +1,4 @@
+#Thu Mar 19 21:30:39 PDT 2020
+base.0=F\:\\hey 20\\WakeUp\\Temp\\gradleOut\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

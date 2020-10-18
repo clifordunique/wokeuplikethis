@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/WakeUp/Scenes/MainMenu.unity
+    guid: bfb04e349311a4b4e8f6b2078c6887a9
+  - enabled: 1
+    path: Assets/GameCutscene/Assets/Scenes/Animation/Scene1.unity
+    guid: 4766e340ad37f2b47851345f69947eaf
+  - enabled: 1
+    path: Assets/GameCutscene/Assets/Scenes/Animation/Scene2.unity
+    guid: f0201e6ca9647b845abb6bb0f0fb2f75
+  - enabled: 1
+    path: Assets/GameCutscene/Assets/Scenes/Animation/Scene3.unity
+    guid: 41ba7adee3fb8ef46a524babdbc1fa5f
+  - enabled: 1
+    path: Assets/GameCutscene/Assets/Scenes/Animation/Scene4.unity
+    guid: 1d245e3720852584f91df2fc4b268f45
+  - enabled: 1
+    path: Assets/GameCutscene/Assets/Scenes/Animation/Scene5.unity
+    guid: a2e1aa71d81bf7a479efd3e66912af22
+  - enabled: 1
+    path: Assets/GameCutscene/Assets/Scenes/Animation/Scene6.unity
+    guid: 150ca70c377f2e047841ab102bad6984
+  - enabled: 1
+    path: Assets/GameCutscene/Assets/Scenes/Animation/Scene7.unity
+    guid: 07f0e1bb328d2004ba56dafbe8baffea
+  - enabled: 1
+    path: Assets/GameCutscene/Assets/Scenes/Animation/Scene8.unity
+    guid: b0245779c9bfc644aa25bf14fdce883e
+  - enabled: 1
+    path: Assets/GameCutscene/Assets/Scenes/Animation/Scene9.unity
+    guid: 467c2096b03b071449942e8bd59f3e8b
+  - enabled: 1
+    path: Assets/GameCutscene/Assets/Scenes/Animation/Scene10.unity
+    guid: 0bf402bdbb1c4204495ae0c7c054508a
+  - enabled: 1
+    path: Assets/GameCutscene/Assets/Scenes/Animation/Scene11.unity
+    guid: 3020ada9f952d714b8a5167ff6178acb
+  - enabled: 1
+    path: Assets/GameCutscene/Assets/Scenes/Animation/Scene12.unity
+    guid: a6df80eff39fb9240b13dd64c5d5f304
+  - enabled: 1
+    path: Assets/GameCutscene/Assets/Scenes/Animation/Scene13.unity
+    guid: efe49d0e74e5a5e4cb8086e6a1c3a8d9
+  - enabled: 1
+    path: Assets/GameCutscene/Assets/Scenes/Animation/Scene14.unity
+    guid: 5e3036c7b6aa2294ea1fefde2850e825
+  - enabled: 1
+    path: Assets/GameCutscene/Assets/Scenes/Animation/Scene15.unity
+    guid: eaf70f26ae61c4a4bbbe718d3011eea6
+  - enabled: 1
+    path: Assets/GameCutscene/Assets/Scenes/Animation/Scene16.unity
+    guid: 5a1fa5c744866724694c9c5f9f950c20
+  - enabled: 1
+    path: Assets/WakeUp/Scenes/SampleScene-00.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/WakeUp/Scenes/Lvl2nay.unity
+    guid: a3349536ab2ca2d4ab3fc7b2af966afc
+  - enabled: 1
+    path: Assets/WakeUp/Scenes/Lvl2.unity
+    guid: 70429732cb552844f823b7a2e7191568
+  - enabled: 1
+    path: Assets/WakeUp/Scenes/lvl3Boss.unity
+    guid: 36a68148273f4054787eb92c1dee7b77
+  - enabled: 1
+    path: Assets/WakeUp/Scenes/Credits.unity
+    guid: 62d67ae2e879e154ab917cab71cac551
+  - enabled: 1
+    path: Assets/WakeUp/Scenes/TeamOne.unity
+    guid: 3af14be7309a99247bd82b1d33e8603a
+  - enabled: 1
+    path: Assets/WakeUp/Scenes/ScrollingCredit.unity
+    guid: 65f32bf0372b7a846ad689bd53b76c7a
+  m_configObjects: {}
